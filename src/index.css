@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: var(--theme-color);
+}
+
+:root {
+  --theme-color: #6366f1; /* Default fallback */
+}
+
+body {
+  @apply bg-slate-50 text-slate-900 antialiased;
+}
