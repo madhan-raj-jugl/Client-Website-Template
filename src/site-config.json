@@ -1,47 +1,47 @@
 {
-  "siteName": "Cambridge Pacific",
-  "logoUrl": "https://cambridgepacificventures.com/assets/image/logo.png",
-  "themeColor": "#1a2b4a",
+  "siteName": "Lumina Creative",
+  "logoUrl": "https://picsum.photos/seed/lumina-logo/200/200",
+  "themeColor": "#6366f1",
   "hero": {
-    "title": "Cambridge Pacific",
-    "subtitle": "Cambridge Pacific is an infrastructure and real assets investment platform operating across the United States and Europe. The firm focuses on the financing and deployment of long-duration capital into the physical layer of the economy — data centers, power infrastructure, energy transition, and real assets — through secondary transactions, direct investments, and strategic advisory.",
-    "ctaText": "Get in Touch",
-    "imageUrl": "https://cambridgepacificventures.com/assets/image/lead-img.jpg"
+    "title": "Design Your Future with Lumina",
+    "subtitle": "We build digital experiences that inspire, engage, and grow your business through innovative design and cutting-edge technology.",
+    "ctaText": "Get Started",
+    "imageUrl": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&q=80&w=2072"
   },
   "features": [
     {
       "id": 1,
-      "title": "The Physical Layer",
-      "description": "We invest in the tangible infrastructure that underpins the modern economy — data centers, power systems, energy transition, and real assets.",
-      "icon": "Building2",
-      "imageUrl": "https://cambridgepacificventures.com/assets/image/servers.svg"
+      "title": "Brand Identity",
+      "description": "We create unique and memorable brand identities that resonate with your target audience.",
+      "icon": "Palette",
+      "imageUrl": "https://images.unsplash.com/photo-1558655146-d09347e92766?auto=format&fit=crop&q=80&w=1000"
     },
     {
       "id": 2,
-      "title": "Long-Duration Capital",
-      "description": "We structure and deploy capital with a long-term horizon, partnering with institutional and family-office investors who share that perspective.",
-      "icon": "Clock",
-      "imageUrl": "https://cambridgepacificventures.com/assets/image/hourglass.svg"
+      "title": "Web Development",
+      "description": "High-performance, responsive websites built with the latest technologies.",
+      "icon": "Code2",
+      "imageUrl": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&q=80&w=1000"
     },
     {
       "id": 3,
-      "title": "Built, Not Optimized",
-      "description": "We focus on moments of transition when durable structures must be created — not incremental improvements to existing systems.",
-      "icon": "Layers",
-      "imageUrl": "https://cambridgepacificventures.com/assets/image/blueprint.svg"
+      "title": "Digital Strategy",
+      "description": "Data-driven strategies to help your business reach its full potential online.",
+      "icon": "BarChart3",
+      "imageUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80&w=1000"
     }
   ],
   "about": {
-    "title": "Investing in the Future of Infrastructure & Innovation",
-    "content": "Cambridge Pacific is an infrastructure and real assets investment platform operating across the United States and Europe. The firm focuses on the financing and deployment of long-duration capital into the physical layer of the economy — data centers, power infrastructure, energy transition, and real assets — through secondary transactions, direct investments, and strategic advisory. Based in New York and Paris, Cambridge Pacific's leadership has executed more than $4.5B in transactions across real assets, infrastructure, energy, and technology, and raised over $1.5B from sovereign wealth funds, pension systems, and global institutional investors.",
-    "imageUrl": "https://cambridgepacificventures.com/assets/image/team-img.jpg"
+    "title": "Our Story",
+    "content": "Founded in 2024, Lumina Creative has been at the forefront of digital innovation. We believe that great design is more than just aesthetics; it's about solving problems and creating meaningful connections.",
+    "imageUrl": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&q=80&w=2070"
   },
   "contact": {
-    "title": "Get in Touch with Cambridge Pacific",
-    "email": null,
-    "address": "New York and Paris"
+    "title": "Let's Work Together",
+    "email": "hello@luminacreative.com",
+    "address": "123 Design Street, Creative City, 90210"
   },
   "footer": {
-    "copyright": "Copyrights © Cambridge Pacific. All Rights Reserved."
+    "copyright": "© 2026 Lumina Creative. All rights reserved."
   }
 }
